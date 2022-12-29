@@ -1,9 +1,6 @@
 hybris-boot
 ===========
 
-BEFORE YOU DECIDE TO PUSH A CHANGE TO THE FIXUP MOUNTPOINTS, PLEASE ADD _ONLY_ DEVICES MADE AND RELEASED BY SAMSUNG AS THIS IS FOR PORTING FOR THESE DEVICES.
-
-
 This project enables the building of boot images for Google Android fastboot based devices.
 
 It can be built either in the android build tree as part of the normal kernel/android pre-requisited build or in a Mer SDK as a standalone package
